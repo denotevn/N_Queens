@@ -1,6 +1,7 @@
 # N_Queens
 
 ### Exercise
+#### This assignment I learned in course CodeClinic on [LinkedIn](https://www.linkedin.com/learning/code-clinic-c-plus-plus-2/solution-overview-eight-queens?autoplay=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56d799343dd559b764b88a89&u=95224177)
 ***On a chess board. You need to place N queens so that they don't eat each other (4 =< N <= 8 )***
 
 ### Intalation and test 
