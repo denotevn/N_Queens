@@ -1,7 +1,7 @@
 # N_Queens
 
 ### Exercise
-***On a chess board. You need to place N queens so that they don't eat each other (N >= 4)***
+***On a chess board. You need to place N queens so that they don't eat each other (4 =< N <= 8 )***
 
 ### Intalation and test 
 1. Clone the repo 
@@ -9,7 +9,7 @@
 3. Build using the build command pertaining to the said compiler. Eg. clang: "clang++ -std=c++17 *.cpp -o main && ./main"
 >Run the command:
 >./main 8
-> or ./main 8 all :to show all of solution on your case (you can choose  4 =< N <= 8>)
+> or ./main 8 all :to show all of solution on your case (you can choose  4 =< N <= 8)
 
 ### What we learn
 1. Recursion, backtracking
