@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/tuandinh/Desktop/Eight Queens'
+make: Leaving directory '/home/tuandinh/Desktop/Eight Queens'
+ 
+make: *** No rule to make target 'NQueensMain.cpp', needed by 'NQueens'.
+
